@@ -1,2 +1,2 @@
-# xiao-ny100
+# xiao-np100
 head in numpy
